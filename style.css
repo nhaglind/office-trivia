@@ -1,0 +1,62 @@
+body {
+  background: url(images/what-is-see-attle.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.content {
+  text-align: center;
+  font-family: 'Open Sans', sans-serif;
+  color: #fff;
+  margin: 40px auto;
+  background: rgba(22,22,22, 0.8);
+  width: 100%;
+  max-width: 960px;
+  border-radius: 5px;
+  padding-bottom: 32px;
+}
+
+@media (max-width: 700px) {
+  .content {
+    margin: 0;
+  }
+}
+
+.questionHolder {
+  min-height: 130px;
+}
+h1 {
+  padding-top: 40px;
+  font-family: monospace;
+}
+
+p {
+  width: 90%;
+  max-width: 700px;
+  text-align: left;
+  margin: 0 auto;
+  padding-bottom: 32px;
+}
+
+#hidden {
+  display: none;
+}
+
+.fade {
+  color: #adadad;
+}
+
+button {
+  background: rgba(78, 169, 125, 0.44);
+  color: white;
+  padding: 10px;
+  border-style: none;
+  border-radius: 3px;
+  cursor: pointer;
+}
+
+button:hover {
+  background: rgba(81, 218, 152, 0.44);
+}
