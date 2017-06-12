@@ -10,7 +10,6 @@ body {
 
 .content {
   text-align: center;
-
   color: #fff;
   margin: 40px auto;
   background: rgba(22,22,22, 0.8);
@@ -29,6 +28,7 @@ body {
 .questionHolder {
   min-height: 130px;
 }
+
 h1 {
   padding-top: 40px;
   font-family: monospace;
