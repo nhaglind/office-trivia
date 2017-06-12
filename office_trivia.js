@@ -95,7 +95,6 @@ var answers = [
 "Michael, Dwight, Phyllis, Jim and Ryan",
 ];
 
-
 var magicQuestion = questions[0];
 var magicAnswer = answers[0];
 
