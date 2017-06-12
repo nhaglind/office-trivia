@@ -1,5 +1,6 @@
 body {
-  background: url(images/what-is-see-attle.jpg) no-repeat center center fixed;
+  background:
+  linear-gradient(rgba(0, 0, 0, 0.50), rgba(0, 0, 0, 0.50)), url(images/office.jpg) no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -42,6 +43,12 @@ p {
 
 #hidden {
   display: none;
+}
+
+.notice {
+  text-align: center;
+  border-bottom: 1px solid white;
+  margin-bottom: 20px;
 }
 
 .fade {
