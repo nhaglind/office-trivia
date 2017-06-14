@@ -60,6 +60,13 @@ a {
   color: #adadad;
 }
 
+.kosu {
+  color: #ffccfd;
+}
+
+.pure {
+  color: #fd9dff;
+}
 button {
   background: rgba(78, 169, 125, 0.44);
   color: white;
